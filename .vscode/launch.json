@@ -1,0 +1,40 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "externalTerminal"
+        },
+        {
+            "name": "predicter.py",
+            "type": "python",
+            "request": "launch",
+            "program": "predicter.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "test.py",
+            "type": "python",
+            "request": "launch",
+            "program": "test.py",
+            "console": "externalTerminal"
+        },
+        {
+            "name": "training module.py",
+            "type": "python",
+            "request": "launch",
+            "program": "training module.py",
+            "console": "externalTerminal"
+        },
+        {
+            "name": "dataset maker.py",
+            "type": "python",
+            "request": "launch",
+            "program": "dataset maker.py",
+            "console": "externalTerminal"
+        }
+    ]
+}
